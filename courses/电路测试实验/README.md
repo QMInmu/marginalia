@@ -2,9 +2,9 @@
 
 [Library home](../../README.md) · [Browse on the website](https://qminmu.github.io/marginalia/)
 
-26 PDF files · 55.6 MiB. Original filenames and file contents are preserved.
+26 files · 55.6 MiB. Original filenames and contents are preserved.
 
-共 26 份 PDF，按资料类型归档，保留原有中文文件名与文件内容。
+共 26 份资料，保留原有中文文件名与文件内容。
 
 ## Exams & solutions · 历年试题与解析
 

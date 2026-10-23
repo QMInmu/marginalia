@@ -4,3 +4,8 @@
 *.css text eol=lf
 *.js text eol=lf
 *.json text eol=lf
+*.py text eol=lf
+*.ps1 text eol=lf
+*.cmd text eol=crlf
+courses/** -text
+courses/*/README.md text eol=lf

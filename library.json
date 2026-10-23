@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "title": "Marginalia",
+  "title_zh": "书页之间",
+  "owner": "QMInmu",
+  "repository": "https://github.com/QMInmu/marginalia",
+  "website": "https://qminmu.github.io/marginalia/",
+  "default_language": "en",
+  "courses": [
+    {
+      "id": "electrical-circuit-testing-laboratory",
+      "name": {
+        "en": "Electrical Circuit Testing Laboratory",
+        "zh": "电路测试实验"
+      },
+      "description": {
+        "en": "Lab handouts, lecture slides, reference material, exam papers, and review notes.",
+        "zh": "实验讲义、课件、参考教材、历年试题与复习总结。"
+      },
+      "directory": "courses/电路测试实验",
+      "categories": [
+        {
+          "id": "exams",
+          "name": {
+            "en": "Exams & solutions",
+            "zh": "历年试题与解析"
+          },
+          "directory": "历年试题与解析"
+        },
+        {
+          "id": "handouts",
+          "name": {
+            "en": "Lab handouts",
+            "zh": "实验讲义"
+          },
+          "directory": "实验讲义"
+        },
+        {
+          "id": "slides",
+          "name": {
+            "en": "Lecture slides",
+            "zh": "课件"
+          },
+          "directory": "课件"
+        },
+        {
+          "id": "references",
+          "name": {
+            "en": "Textbooks & lab reports",
+            "zh": "教材与报告"
+          },
+          "directory": "教材与报告"
+        },
+        {
+          "id": "review",
+          "name": {
+            "en": "Review notes",
+            "zh": "复习总结"
+          },
+          "directory": "复习总结"
+        }
+      ]
+    }
+  ],
+  "branch": "main"
+}
