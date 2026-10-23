@@ -1,0 +1,246 @@
+{
+  "title": "Marginalia",
+  "title_zh": "书页之间",
+  "owner": "QMInmu",
+  "repository": "https://github.com/QMInmu/marginalia",
+  "website": "https://qminmu.github.io/marginalia/",
+  "default_language": "en",
+  "courses": [
+    {
+      "id": "electrical-circuit-testing-laboratory",
+      "name": {
+        "en": "Electrical Circuit Testing Laboratory",
+        "zh": "电路测试实验"
+      },
+      "description": {
+        "en": "Lab handouts, lecture slides, reference material, and past exam papers.",
+        "zh": "实验讲义、课件、参考教材与历年试题。"
+      },
+      "directory": "courses/电路测试实验",
+      "categories": [
+        {
+          "id": "exams",
+          "name": {
+            "en": "Exams & solutions",
+            "zh": "历年试题与解析"
+          }
+        },
+        {
+          "id": "handouts",
+          "name": {
+            "en": "Lab handouts",
+            "zh": "实验讲义"
+          }
+        },
+        {
+          "id": "slides",
+          "name": {
+            "en": "Lecture slides",
+            "zh": "课件"
+          }
+        },
+        {
+          "id": "references",
+          "name": {
+            "en": "Textbooks & lab reports",
+            "zh": "教材与报告"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "电路测试实验_三套历年试题与解析.pdf",
+          "path": "courses/电路测试实验/历年试题与解析/电路测试实验_三套历年试题与解析.pdf",
+          "category": "exams",
+          "bytes": 1415842,
+          "pages": 27,
+          "sha256": "39bad483fe026df53ddab420abe9ef5bf9d32c730a4afa89194cc6932bb93598"
+        },
+        {
+          "name": "23秋电路测试技术基础考试试卷_A1.pdf",
+          "path": "courses/电路测试实验/历年试题与解析/23秋电路测试技术基础考试试卷_A1.pdf",
+          "category": "exams",
+          "bytes": 77876,
+          "pages": 4,
+          "sha256": "29761812d945a81007455c7d9ab66144dcc343cfe54163c0db0328c1fae6d3bb"
+        },
+        {
+          "name": "2023电路理论实验（学生记忆版1）.pdf",
+          "path": "courses/电路测试实验/历年试题与解析/2023电路理论实验（学生记忆版1）.pdf",
+          "category": "exams",
+          "bytes": 88871,
+          "pages": 3,
+          "sha256": "ba195299529e4a12235ab11c74ed99af165affc48744845a7be0bacf9928503d"
+        },
+        {
+          "name": "1 实验一 直流电源特性曲线测试.pdf",
+          "path": "courses/电路测试实验/实验讲义/1 实验一 直流电源特性曲线测试.pdf",
+          "category": "handouts",
+          "bytes": 194935,
+          "pages": 2,
+          "sha256": "5e9df20600728afcc14b5fc0dca24b0f1060e89e9f1bb3f05fcf8422207aa4eb"
+        },
+        {
+          "name": "2 实验二 线性有源一端口网络等效参数的测定.pdf",
+          "path": "courses/电路测试实验/实验讲义/2 实验二 线性有源一端口网络等效参数的测定.pdf",
+          "category": "handouts",
+          "bytes": 139129,
+          "pages": 1,
+          "sha256": "9b01c617bc25edbf4471ef3a86e53b6eba54e34bec5164dd2fc8504ad61f1d3f"
+        },
+        {
+          "name": "2 实验三 故障检查.pdf",
+          "path": "courses/电路测试实验/实验讲义/2 实验三 故障检查.pdf",
+          "category": "handouts",
+          "bytes": 166314,
+          "pages": 1,
+          "sha256": "f6a564f1f0ea2b4b526dbcddadbc5772b8986a0d2b2fbc16b2a6514cfeb328d3"
+        },
+        {
+          "name": "3 实验四 交流参数与互感的测量.pdf",
+          "path": "courses/电路测试实验/实验讲义/3 实验四 交流参数与互感的测量.pdf",
+          "category": "handouts",
+          "bytes": 226808,
+          "pages": 2,
+          "sha256": "634c5354c6d2a15cdbc52218722c69a2bfe8150ae51fd7e8d5d1d0dbb47b53ef"
+        },
+        {
+          "name": "4 实验五 日光灯电路与功率因数的提高.pdf",
+          "path": "courses/电路测试实验/实验讲义/4 实验五 日光灯电路与功率因数的提高.pdf",
+          "category": "handouts",
+          "bytes": 209337,
+          "pages": 1,
+          "sha256": "f0d1e2c3ea33238545fde6b660d16a11a9a47727005b198af04b408ab8461606"
+        },
+        {
+          "name": "5 实验七 示波器和信号发生器的使用.pdf",
+          "path": "courses/电路测试实验/实验讲义/5 实验七 示波器和信号发生器的使用.pdf",
+          "category": "handouts",
+          "bytes": 127056,
+          "pages": 1,
+          "sha256": "dc9cfbad2933cb28bcf46718e2b27030dc3085826b20ebe8ba19dbb474c3d9a0"
+        },
+        {
+          "name": "6 实验八 元件特性的示波器测量法.pdf",
+          "path": "courses/电路测试实验/实验讲义/6 实验八 元件特性的示波器测量法.pdf",
+          "category": "handouts",
+          "bytes": 131596,
+          "pages": 1,
+          "sha256": "e2a374486d67164b1b47f738666a1d2301e3d4631e6876eb3cd98c7fd4030c6b"
+        },
+        {
+          "name": "6 实验九 一阶电路的响应.pdf",
+          "path": "courses/电路测试实验/实验讲义/6 实验九 一阶电路的响应.pdf",
+          "category": "handouts",
+          "bytes": 148156,
+          "pages": 1,
+          "sha256": "7ee74d9049c1eb670324026d6d43ab5f1b3c90f289015b4b9696e64c80e9f05d"
+        },
+        {
+          "name": "7 实验十 二阶电路的响应.pdf",
+          "path": "courses/电路测试实验/实验讲义/7 实验十 二阶电路的响应.pdf",
+          "category": "handouts",
+          "bytes": 140729,
+          "pages": 1,
+          "sha256": "c0e06a3fd2c988641f9e3df3898066d3a51dcf58f62a7975a43fac289fbb6f31"
+        },
+        {
+          "name": "7 实验十一 串联谐振电路.pdf",
+          "path": "courses/电路测试实验/实验讲义/7 实验十一 串联谐振电路.pdf",
+          "category": "handouts",
+          "bytes": 139379,
+          "pages": 1,
+          "sha256": "436d6dba1717d4c850f53120b8dfb8d84e5e77fd1ec27ae04144836096ec7dc7"
+        },
+        {
+          "name": "2024秋-电路测试实验-01.pdf",
+          "path": "courses/电路测试实验/课件/2024秋-电路测试实验-01.pdf",
+          "category": "slides",
+          "bytes": 4034877,
+          "pages": 27,
+          "sha256": "d70f6d3ae1e8c446ba419b77878cfa1e996c28046832c2971437911d0b2b34e6"
+        },
+        {
+          "name": "AA2024秋-电路测试实验-02.pdf",
+          "path": "courses/电路测试实验/课件/AA2024秋-电路测试实验-02.pdf",
+          "category": "slides",
+          "bytes": 2257496,
+          "pages": 20,
+          "sha256": "a306a76406f6db3a0cef70d499384db489c1855bf0a506305fc0bbb0627e0895"
+        },
+        {
+          "name": "AA2024秋-电路测试实验-03New.pdf",
+          "path": "courses/电路测试实验/课件/AA2024秋-电路测试实验-03New.pdf",
+          "category": "slides",
+          "bytes": 3183988,
+          "pages": 23,
+          "sha256": "15ba3748cb5ff87f41388e7615277dd7e12fc4af30d6ef6fbba6a37756e0849a"
+        },
+        {
+          "name": "AA2024秋-电路测试实验-04.pdf",
+          "path": "courses/电路测试实验/课件/AA2024秋-电路测试实验-04.pdf",
+          "category": "slides",
+          "bytes": 2242851,
+          "pages": 21,
+          "sha256": "39ca9b069e46d3ab05cbcd6cb634eb574aea994c66ba17069d4e7ace3706b015"
+        },
+        {
+          "name": "AA2024秋-电路测试实验-05New.pdf",
+          "path": "courses/电路测试实验/课件/AA2024秋-电路测试实验-05New.pdf",
+          "category": "slides",
+          "bytes": 3166118,
+          "pages": 25,
+          "sha256": "bee69dd4617e2ee0c0d76127d409d53ef3dc502c95d59126678dc09aa4f1dd1c"
+        },
+        {
+          "name": "AA2024秋-电路测试实验-06.pdf",
+          "path": "courses/电路测试实验/课件/AA2024秋-电路测试实验-06.pdf",
+          "category": "slides",
+          "bytes": 2490108,
+          "pages": 19,
+          "sha256": "26ab658e8c9d2bd01294a9d9c6c0e6893429f7cc418fcecec63462b3b051813b"
+        },
+        {
+          "name": "AA2024秋-电路测试实验-07.pdf",
+          "path": "courses/电路测试实验/课件/AA2024秋-电路测试实验-07.pdf",
+          "category": "slides",
+          "bytes": 3427301,
+          "pages": 23,
+          "sha256": "feed697e9d9390c1d0975f50454433e17bf1f11b1e9f8ea52c880bb47f4dd79f"
+        },
+        {
+          "name": "电路测试技术实验报告-非电气2025.pdf",
+          "path": "courses/电路测试实验/教材与报告/电路测试技术实验报告-非电气2025.pdf",
+          "category": "references",
+          "bytes": 232795,
+          "pages": 72,
+          "sha256": "27f5e41bf50a48567b885ea07d371b48607f62d70500cb823c8d407a0e58505b"
+        },
+        {
+          "name": "电路测试实验教材_第71-123页_电子重建版.pdf",
+          "path": "courses/电路测试实验/教材与报告/电路测试实验教材_第71-123页_电子重建版.pdf",
+          "category": "references",
+          "bytes": 1422617,
+          "pages": 53,
+          "sha256": "8ccdb0ba74da4ab11bda2c6f7b914b0fdcb11694895fdfc62cd84b8fd980a02e"
+        },
+        {
+          "name": "电路实验第6章.pdf",
+          "path": "courses/电路测试实验/教材与报告/电路实验第6章.pdf",
+          "category": "references",
+          "bytes": 10954862,
+          "pages": 15,
+          "sha256": "f895f5ad5d0f9dc2132e70ad6ec672810bd0283922e7e292ca5b46749ba9f01c"
+        },
+        {
+          "name": "电路实验第7章.pdf",
+          "path": "courses/电路测试实验/教材与报告/电路实验第7章.pdf",
+          "category": "references",
+          "bytes": 14628418,
+          "pages": 20,
+          "sha256": "8d5eb5e03d34861e6637f9818adb1fc50dda9f95726a09a2a2abada3c3e0ab62"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="description" content="Marginalia — QMInmu's personal library of course notes, lab materials, and exam resources. 书页之间：按课程归档的个人学习资料。">
+  <meta name="theme-color" content="#f6f4ef">
+  <title>Marginalia · 书页之间</title>
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='12' fill='%23284135'/%3E%3Ctext x='32' y='46' text-anchor='middle' font-family='Georgia' font-size='45' fill='%23f6f4ef'%3Em%3C/text%3E%3C/svg%3E">
+  <link rel="stylesheet" href="assets/style.css">
+  <script src="assets/archive.js" defer></script>
+</head>
+<body>
+  <a class="skip" href="#library">Skip to materials</a>
+  <header class="topbar">
+    <a class="wordmark" href="./" aria-label="Marginalia home"><span class="monogram">m</span>Marginalia</a>
+    <nav aria-label="Main navigation">
+      <a href="https://github.com/QMInmu/marginalia" target="_blank" rel="noopener noreferrer">GitHub ↗</a>
+      <button id="language" class="language" type="button" aria-label="切换为中文">中文</button>
+    </nav>
+  </header>
+  <main>
+    <section class="hero" aria-labelledby="title">
+      <p class="eyebrow" data-i18n="eyebrow">QMINMU'S PERSONAL LIBRARY</p>
+      <h1 id="title" data-i18n="title">Pages worth keeping.</h1>
+      <p class="intro" data-i18n="intro">Course notes, lab handouts, and exam resources.<br>A small archive for learning, one course at a time.</p>
+      <div class="stats" id="stats" aria-label="Library statistics"></div>
+    </section>
+    <section class="workspace" id="library" aria-label="Course library">
+      <aside class="sidebar">
+        <p class="section-label" data-i18n="courses">COURSES</p>
+        <div id="course-list" class="course-list"></div>
+        <p class="aside-note" data-i18n="asideNote">Original files, organized by course.</p>
+      </aside>
+      <div class="content">
+        <div class="course-heading">
+          <p class="section-label" data-i18n="collection">COURSE COLLECTION</p>
+          <h2 id="course-title"></h2>
+          <p id="course-subtitle" class="course-subtitle"></p>
+          <p id="course-description"></p>
+        </div>
+        <div class="search-wrap">
+          <svg aria-hidden="true" viewBox="0 0 24 24"><circle cx="10.5" cy="10.5" r="6.5"></circle><path d="m16 16 4.5 4.5"></path></svg>
+          <input type="search" id="search" placeholder="Search filenames…" aria-label="Search filenames" autocomplete="off">
+          <kbd aria-hidden="true">/</kbd>
+        </div>
+        <div id="filters" class="filters" role="group" aria-label="Material categories"></div>
+        <div class="list-topline"><span id="result-count" aria-live="polite"></span><span data-i18n="format">PDF COLLECTION</span></div>
+        <div id="materials" class="materials"></div>
+        <div id="empty" class="empty" hidden><h3 data-i18n="emptyTitle">No matching pages.</h3><p data-i18n="emptyText">Try another filename or choose a different category.</p></div>
+        <p id="load-error" class="load-error" hidden>Unable to load the catalog. <a href="https://github.com/QMInmu/marginalia/tree/main/courses">Browse the repository instead.</a></p>
+        <noscript><p><a href="https://github.com/QMInmu/marginalia/tree/main/courses">Browse all course files on GitHub / 在 GitHub 浏览全部课程资料</a></p></noscript>
+      </div>
+    </section>
+  </main>
+  <footer><span>Marginalia <span class="footer-zh">/ 书页之间</span></span><span data-i18n="footer">Collected by QMInmu. Made for revisiting.</span></footer>
+</body>
+</html>
