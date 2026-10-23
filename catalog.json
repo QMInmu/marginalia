@@ -13,8 +13,8 @@
         "zh": "电路测试实验"
       },
       "description": {
-        "en": "Lab handouts, lecture slides, reference material, and past exam papers.",
-        "zh": "实验讲义、课件、参考教材与历年试题。"
+        "en": "Lab handouts, lecture slides, reference material, exam papers, and review notes.",
+        "zh": "实验讲义、课件、参考教材、历年试题与复习总结。"
       },
       "directory": "courses/电路测试实验",
       "categories": [
@@ -45,6 +45,13 @@
             "en": "Textbooks & lab reports",
             "zh": "教材与报告"
           }
+        },
+        {
+          "id": "review",
+          "name": {
+            "en": "Review notes",
+            "zh": "复习总结"
+          }
         }
       ],
       "files": [
@@ -55,6 +62,14 @@
           "bytes": 1415842,
           "pages": 27,
           "sha256": "39bad483fe026df53ddab420abe9ef5bf9d32c730a4afa89194cc6932bb93598"
+        },
+        {
+          "name": "电路测试实验操作题_原题与答案解析.pdf",
+          "path": "courses/电路测试实验/历年试题与解析/电路测试实验操作题_原题与答案解析.pdf",
+          "category": "exams",
+          "bytes": 195354,
+          "pages": 5,
+          "sha256": "82a8b21c58c6ae7109bc453e3130b6648bf4eb298817820bba35f7e36797724d"
         },
         {
           "name": "23秋电路测试技术基础考试试卷_A1.pdf",
@@ -239,6 +254,14 @@
           "bytes": 14628418,
           "pages": 20,
           "sha256": "8d5eb5e03d34861e6637f9818adb1fc50dda9f95726a09a2a2abada3c3e0ab62"
+        },
+        {
+          "name": "电测实验_学姐复习总结_图片合订本.pdf",
+          "path": "courses/电路测试实验/复习总结/电测实验_学姐复习总结_图片合订本.pdf",
+          "category": "review",
+          "bytes": 6888463,
+          "pages": 6,
+          "sha256": "2e9ed30dfcbfe205e40e431dd6f0539d950e2a5fd30f149ea48614a66dde4bf7"
         }
       ]
     }

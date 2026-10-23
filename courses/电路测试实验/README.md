@@ -2,15 +2,16 @@
 
 [Library home](../../README.md) · [Browse on the website](https://qminmu.github.io/marginalia/)
 
-24 PDF files · 48.9 MiB. Original filenames and file contents are preserved.
+26 PDF files · 55.6 MiB. Original filenames and file contents are preserved.
 
-共 24 份 PDF，按资料类型归档，保留原有中文文件名与文件内容。
+共 26 份 PDF，按资料类型归档，保留原有中文文件名与文件内容。
 
 ## Exams & solutions · 历年试题与解析
 
 | File / 文件 | Pages / 页数 | Size / 大小 |
 | --- | ---: | ---: |
 | [电路测试实验_三套历年试题与解析.pdf](%E5%8E%86%E5%B9%B4%E8%AF%95%E9%A2%98%E4%B8%8E%E8%A7%A3%E6%9E%90/%E7%94%B5%E8%B7%AF%E6%B5%8B%E8%AF%95%E5%AE%9E%E9%AA%8C_%E4%B8%89%E5%A5%97%E5%8E%86%E5%B9%B4%E8%AF%95%E9%A2%98%E4%B8%8E%E8%A7%A3%E6%9E%90.pdf) | 27 | 1.35 MiB |
+| [电路测试实验操作题_原题与答案解析.pdf](%E5%8E%86%E5%B9%B4%E8%AF%95%E9%A2%98%E4%B8%8E%E8%A7%A3%E6%9E%90/%E7%94%B5%E8%B7%AF%E6%B5%8B%E8%AF%95%E5%AE%9E%E9%AA%8C%E6%93%8D%E4%BD%9C%E9%A2%98_%E5%8E%9F%E9%A2%98%E4%B8%8E%E7%AD%94%E6%A1%88%E8%A7%A3%E6%9E%90.pdf) | 5 | 0.19 MiB |
 | [23秋电路测试技术基础考试试卷_A1.pdf](%E5%8E%86%E5%B9%B4%E8%AF%95%E9%A2%98%E4%B8%8E%E8%A7%A3%E6%9E%90/23%E7%A7%8B%E7%94%B5%E8%B7%AF%E6%B5%8B%E8%AF%95%E6%8A%80%E6%9C%AF%E5%9F%BA%E7%A1%80%E8%80%83%E8%AF%95%E8%AF%95%E5%8D%B7_A1.pdf) | 4 | 0.07 MiB |
 | [2023电路理论实验（学生记忆版1）.pdf](%E5%8E%86%E5%B9%B4%E8%AF%95%E9%A2%98%E4%B8%8E%E8%A7%A3%E6%9E%90/2023%E7%94%B5%E8%B7%AF%E7%90%86%E8%AE%BA%E5%AE%9E%E9%AA%8C%EF%BC%88%E5%AD%A6%E7%94%9F%E8%AE%B0%E5%BF%86%E7%89%881%EF%BC%89.pdf) | 3 | 0.08 MiB |
 
@@ -49,3 +50,9 @@
 | [电路测试实验教材_第71-123页_电子重建版.pdf](%E6%95%99%E6%9D%90%E4%B8%8E%E6%8A%A5%E5%91%8A/%E7%94%B5%E8%B7%AF%E6%B5%8B%E8%AF%95%E5%AE%9E%E9%AA%8C%E6%95%99%E6%9D%90_%E7%AC%AC71-123%E9%A1%B5_%E7%94%B5%E5%AD%90%E9%87%8D%E5%BB%BA%E7%89%88.pdf) | 53 | 1.36 MiB |
 | [电路实验第6章.pdf](%E6%95%99%E6%9D%90%E4%B8%8E%E6%8A%A5%E5%91%8A/%E7%94%B5%E8%B7%AF%E5%AE%9E%E9%AA%8C%E7%AC%AC6%E7%AB%A0.pdf) | 15 | 10.45 MiB |
 | [电路实验第7章.pdf](%E6%95%99%E6%9D%90%E4%B8%8E%E6%8A%A5%E5%91%8A/%E7%94%B5%E8%B7%AF%E5%AE%9E%E9%AA%8C%E7%AC%AC7%E7%AB%A0.pdf) | 20 | 13.95 MiB |
+
+## Review notes · 复习总结
+
+| File / 文件 | Pages / 页数 | Size / 大小 |
+| --- | ---: | ---: |
+| [电测实验_学姐复习总结_图片合订本.pdf](%E5%A4%8D%E4%B9%A0%E6%80%BB%E7%BB%93/%E7%94%B5%E6%B5%8B%E5%AE%9E%E9%AA%8C_%E5%AD%A6%E5%A7%90%E5%A4%8D%E4%B9%A0%E6%80%BB%E7%BB%93_%E5%9B%BE%E7%89%87%E5%90%88%E8%AE%A2%E6%9C%AC.pdf) | 6 | 6.57 MiB |
